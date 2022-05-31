@@ -10,7 +10,3 @@ Group Project		# Main folder of the project
 +-- docs			# Project Presentation.
 |
 +-- src			# Source code (Python)
-
-
-
-
